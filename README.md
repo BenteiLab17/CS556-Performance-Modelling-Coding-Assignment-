@@ -13,7 +13,7 @@ Before executing the files, make sure to have g++ installed in the system.
 
 ## Running the Data Visualization Script
 This script has been written using Python, inside Jupyter Notebook.
-Before executing the script, ensure to have Jupyter Notebook installed in the system.
+Before executing it, ensure to have Jupyter Notebook installed in the system.
 1. In the terminal, type "jupyter notebook"
 2. Once the notebook is launched, upload the file "Data_Visualization_Script.ipynb"
 3. Run the script in the notebook using the 'run' button.
